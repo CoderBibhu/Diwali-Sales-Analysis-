@@ -1,2 +1,2 @@
-# This is my local repo
-This is a practise section
+# Analysis Of festival Season Sales 
+Used Python Language for analysis and performing EDA on a Datasets.
