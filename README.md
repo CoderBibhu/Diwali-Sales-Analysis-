@@ -1,2 +1,2 @@
 # Analysis Of festival Season Sales 
-Used Python Language for analysis and performing EDA on a Datasets.
+Analyzed and performed EDA on data sets using Python.
